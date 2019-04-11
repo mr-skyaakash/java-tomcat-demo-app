@@ -23,7 +23,7 @@
     </dependency>
  </dependencies>
  <build>
-    <finalName>demopipeline_aakash</finalName>
+    <finalName>demopipeline_aakash_final</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
